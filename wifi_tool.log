@@ -1,0 +1,26 @@
+2025-09-16 17:41:19,060 - INFO - Program exited
+2025-09-16 17:46:28,497 - INFO - Programme quitté
+2025-09-16 18:04:54,995 - INFO - Cible sélectionnée : Flybox-CD7B5C (FC:3F:FC:CD:7B:5C)
+2025-09-16 18:05:20,431 - INFO - Capture de paquets sauvegardée dans capture_FC3FFCCD7B5C_20250916_180505.cap
+2025-09-16 18:11:30,727 - INFO - Cible sélectionnée : KOUMA2.4GHz (F0:09:0D:28:71:3A)
+2025-09-16 18:11:30,728 - INFO - Dossier d'attaque créé : attaque_F0090D28713A_20250916_181130
+2025-09-16 18:11:50,626 - INFO - Capture de paquets sauvegardée dans attaque_F0090D28713A_20250916_181130/capture_F0090D28713A_20250916_181130.cap
+2025-09-16 18:21:21,232 - INFO - Aucun paquet capturé pour l'IP 192.168.2.254
+2025-09-16 18:21:21,239 - INFO - Trafic réseau analysé pour l'IP 192.168.2.254: 0 paquets capturés
+2025-09-16 18:31:15,722 - INFO - Nombre d'appareils connectés au réseau VDC-WIFI  KAcademy-IADM (48:8F:5A:FC:DF:76) : 0
+2025-09-16 18:31:15,723 - INFO - Résultats des clients sauvegardés dans clients_488F5AFCDF76_20250916_183110/clients_20250916_183110.json
+2025-09-16 18:32:23,336 - ERROR - Erreur lors de la vérification du réseau sur eth0: Command '['iwconfig', 'eth0']' returned non-zero exit status 161.
+2025-09-16 18:42:53,257 - INFO - Surveillance en temps réel terminée pour VDC-WIFI  KAcademy-IADM (48:8F:5A:FC:DF:76)
+2025-09-16 18:44:32,321 - INFO - Surveillance en temps réel terminée pour VDC-WIFI  KAcademy-IADM (48:8F:5A:FC:DF:76)
+2025-09-16 18:45:58,592 - INFO - Surveillance en temps réel terminée pour VDC-WIFI  KAcademy-IADM (48:8F:5A:FC:DF:76)
+2025-09-16 18:54:30,567 - [main] - INFO - Démarrage du programme
+2025-09-16 18:54:47,883 - [afficher_recapitulatif_gui] - INFO - Affichage du récapitulatif graphique
+2025-09-16 18:55:26,569 - [afficher_recapitulatif_gui] - INFO - Récapitulatif graphique fermé
+2025-09-16 19:08:55,112 - [main_gui] - INFO - Démarrage de l'interface graphique principale
+2025-09-16 19:09:16,924 - [main_gui] - INFO - Démarrage de l'interface graphique principale
+2025-09-16 19:14:45,321 - [main_gui] - INFO - Démarrage de l'interface graphique principale
+2025-09-16 19:14:49,466 - [scan_wifi] - INFO - Début de la détection du mode et scan Wi-Fi
+2025-09-16 19:14:56,683 - [scan_wifi] - INFO - Aucune interface en mode moniteur, lancement du scan normal
+2025-09-16 19:14:56,684 - [scan_wifi_normal] - INFO - Début du scan Wi-Fi en mode normal
+2025-09-16 19:14:58,662 - [scan_wifi_normal] - INFO - Scan Wi-Fi normal terminé: 8 réseaux détectés
+2025-09-16 19:15:24,819 - [main_gui] - INFO - Programme quitté
